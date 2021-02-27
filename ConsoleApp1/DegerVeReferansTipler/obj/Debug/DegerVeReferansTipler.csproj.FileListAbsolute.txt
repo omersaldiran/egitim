@@ -1,7 +1,0 @@
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe.config
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.pdb
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csprojAssemblyReference.cache
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.exe
-C:\Users\omer.saldiran\source\repos\ConsoleApp1\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.pdb
