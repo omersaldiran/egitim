@@ -1,0 +1,7 @@
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\obj\Debug\Matematik.csprojAssemblyReference.cache
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\bin\Debug\Matematik.exe
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\bin\Debug\Matematik.pdb
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\obj\Debug\Matematik.exe
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\Matematik\obj\Debug\Matematik.pdb
