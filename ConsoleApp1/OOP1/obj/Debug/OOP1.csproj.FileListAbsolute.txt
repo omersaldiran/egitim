@@ -1,0 +1,7 @@
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\bin\Debug\OOP1.exe
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\obj\Debug\OOP1.exe
+C:\Users\omer.saldiran\source\repos\ConsoleApp1\OOP1\obj\Debug\OOP1.pdb
